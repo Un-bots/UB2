@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Userbot",
+    "name": "Un Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
+    "repository": "https://github.com/un-bots/Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -15,14 +15,14 @@
             "value": ""
         },
         "SUDO_USERS": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to @un_helperbot pm and type /id",
             "required": true,
-            "value": "1234567890 1234567890"
+            "value": ""
         },
         "OWNER_ID": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to @un_helperbot pm and type /id",
             "required": true,
-            "value": "1234567890"
+            "value": "6494892119"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
