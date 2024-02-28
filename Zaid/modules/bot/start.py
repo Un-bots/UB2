@@ -1,5 +1,5 @@
 from Zaid import app, API_ID, API_HASH
-from config import OWNER_ID, ALIVE_PIC
+from config import OWNER_ID, ALIVE_PIC="https://telegra.ph/file/11a9e10a4ba0a125eab7a.jpg"
 from pyrogram import filters
 import os
 import re
