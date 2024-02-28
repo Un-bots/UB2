@@ -14,11 +14,11 @@ OWNER_ID = int(getenv("OWNER_ID"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/d1ae8e42f235b632cedd6.jpg')
-ALIVE_TEXT = getenv("ALIVE_TEXT", "✘ υη υѕєявσт ✘")
+ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/un/botsUSERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/un-bots/USERBOT")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
