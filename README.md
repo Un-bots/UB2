@@ -10,7 +10,7 @@
 
 ## Repo Stats
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=un-bots&repo=USERBOT&theme=dark)
 
 
 ## Requirements 
@@ -54,13 +54,13 @@ Checkout Tutorial!
 
 ## VPS/Locally deploy!
 ```console
-Zaid@Debian~ $ apt-get -y update
-Zaid@Debian~ $ apt-get -y install git gcc python3-pip -y
-Zaid@Debian~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
-Zaid@Debian~ $ cd ZAID-USERBOT
-Zaid@Debian~ $ pip3 install -U -r requirements.txt
-Zaid@Debian~ $ cp sample.env .env
-Zaid@Debian~ $ nano .env
+UN@Debian~ $ apt-get -y update
+UN@Debian~ $ apt-get -y install git gcc python3-pip -y
+UN@Debian~ $ git clone https://github.com/un-bots/USERBOT
+UN@Debian~ $ cd ZAID-USERBOT
+UN@Debian~ $ pip3 install -U -r requirements.txt
+UN@Debian~ $ cp sample.env .env
+UN@Debian~ $ nano .env
 ```
 
 <h3 align="center">
@@ -68,8 +68,8 @@ Zaid@Debian~ $ nano .env
 </h3>
 
 ```console
-Zaid@Debian~ $ screen
-Zaid@Debian~ $ python3 -m Zaid
+UN@Debian~ $ screen
+UN@Debian~ $ python3 -m Zaid
 ```
 
 ## Disclaimer 
@@ -90,7 +90,7 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- Zect Userbot
+- UN Userbot
 - Man
 - pyrogram
 - xyz ⚡
@@ -99,5 +99,5 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/TheSupportChat"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/un_bots"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/un_bots_info"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
