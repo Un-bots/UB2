@@ -1317,12 +1317,12 @@ async def santet(client: Client, message: Message):
 add_command_help(
     "animation",
     [
-        ["koc or kocok", "to display kocok"]
-        ["tank", "to display tank"]
-        ["welcome or wlc", "to display welcome"]
-        ["goodnight or gn", "to display good night"]
-        ["goodmorning or gm", "to display good morning."]
-        ["hello or hii", "to display hello."]
+        ["koc or kocok", "to display kocok"],
+        ["tank", "to display tank"],
+        ["welcome or wlc", "to display welcome"],
+        ["goodnight or gn", "to display good night"],
+        ["goodmorning or gm", "to display good morning."],
+        ["hello or hii", "to display hello."],
         ["fuck", "To display the middle finger animation."],
         ["dino", "To display dino chased animation."],
         ["santet", "To display online blackmail animation."],
