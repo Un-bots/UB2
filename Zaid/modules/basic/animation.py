@@ -338,7 +338,7 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [KING IS BEST](https://github.com/ToxicCybers/KingUserbot) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [🗿UN IS BEST🗿](https://t.me/un_w0rld) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
     if message.forward_from:
         return
@@ -612,6 +612,7 @@ async def adadino(client: Client, message: Message):
     await typew.edit("`🧎🦖`")
     await asyncio.sleep(2)
     await typew.edit("`-DIED-`")
+    await typew.edit("`mr gya madharchod 😂`")
 
 
 @Client.on_message(filters.command(["sayang", "lover"], ".") & filters.me)
@@ -845,6 +846,30 @@ async def menggabut(client: Client, message: Message):
     await e.edit("`GABUT`")
 
 
+@Client.on_message(filters.command(["hello", "hii"], ".") & filters.me)
+async def hello(client: Client, message: Message):
+    await edit_or_reply(
+        message, "╔┓┏╦━╦┓╔┓╔━━╗\n║┗┛║┗╣┃║┃║X X║\n║┏┓║┏╣┗╣┗╣╰╯║\n╚┛┗╩━╩━╩━╩━━╝")
+        
+
+@Client.on_message(filters.command(["welcome", "wlc"], ".") & filters.me)
+async def welcome(client: Client, message: Message):
+    await edit_or_reply(
+        message, "───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───\n───█▒▒░░░░░░░░░▒▒█───\n────█░░█░░░░░█░░█────\n─▄▄──█░░░▀█▀░░░█──▄▄─\n█░░█─▀▄░░░░░░░▄▀─█░░█\n█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\n█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█\n█░░║║║╠─║─║─║║║║║╠─░░█\n█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█\n█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█")
+
+
+@Client.on_message(filters.command(["goodmorning", "gm"], ".") & filters.me)
+async def goodmorning(client: Client, message: Message):
+    await edit_or_reply(
+        message, "｡♥｡･ﾟ♡ﾟ･｡♥｡･｡･｡･｡♥｡･｡♥｡･ﾟ♡ﾟ•\n╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮\n╭━┳━┳━┳╯┃╭━━┳━┳┳┳━┳╋╋━┳┳━╮\n┃╋┃╋┃╋┃╋┃┃┃┃┃╋┃╭┫┃┃┃┃┃┃┃╋┃\n┣╮┣━┻━┻━╯╰┻┻┻━┻╯╰┻━┻┻┻━╋╮┃\n╰━╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯\n｡♥｡･ﾟ♡ﾟ･｡♥｡･｡･｡･｡♥｡･｡♥｡･ﾟ♡ﾟ･")
+
+
+@Client.on_message(filters.command(["goodnight", "gn"], ".") & filters.me)
+async def goodnight(client: Client, message: Message):
+    await edit_or_reply(
+        message, "｡♥｡･ﾟ♡ﾟ･｡♥｡･｡･｡･｡♥｡･\n╱╱╱╱╱╱╱╭╮╱╱╱╭╮╱╭╮╭╮\n╭━┳━┳━┳╯┃╭━┳╋╋━┫╰┫╰╮\n┃╋┃╋┃╋┃╋┃┃┃┃┃┃╋┃┃┃╭┫\n┣╮┣━┻━┻━╯╰┻━┻╋╮┣┻┻━╯\n╰━╯╱╱╱╱╱╱╱╱╱╱╰━╯\n｡♥｡･ﾟ♡ﾟ･｡♥° ♥｡･ﾟ♡ﾟ･")
+
+
 @Client.on_message(filters.command(["helikopter", "heli"], ".") & filters.me)
 async def helikopter(client: Client, message: Message):
     await edit_or_reply(
@@ -861,7 +886,7 @@ async def helikopter(client: Client, message: Message):
         "╬═╬ \n"
         "╬═╬ \n"
         "╬═╬ \n"
-        "╬═╬ Hallo Semuanya :) \n"
+        "╬═╬ Hemlo Brother 🤡 \n"
         "╬═╬☻/ \n"
         "╬═╬/▌ \n"
         "╬═╬/ \\ \n",
@@ -1292,6 +1317,11 @@ async def santet(client: Client, message: Message):
 add_command_help(
     "animation",
     [
+        ["tank", "to display tank"]
+        ["welcome or wlc", "to display welcome"]
+        ["goodnight or gn", "to display good night"]
+        ["goodmorning or gm", "to display good morning."]
+        ["hello or hii", "to display hello."]
         ["fuck", "To display the middle finger animation."],
         ["dino", "To display dino chased animation."],
         ["santet", "To display online blackmail animation."],
