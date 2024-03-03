@@ -163,6 +163,11 @@ async def pikachu(client: Client, message: Message):
         return
     await message.delete()
 
+@Client.on_message(filters.command(["animation", "an"], ".") & filters.me)
+async def animation(client: Client, message: Message):
+    await edit_or_reply(
+        message, "["koc or kocok", "to display kocok"],\n["tank", "to display tank"],\n["welcome or wlc", "to display welcome"],\n["goodnight or gn", "to display good night"],\n["goodmorning or gm", "to display good morning."],\n["hello or hii", "to display hello."],\n["bruh", "To display the middle finger animation."],\n["dino", "To display dino chased animation."],\n["santet", "To display online blackmail animation."],\n["gabut", "To display the animation gait."],\n["sayang or lover", "To display the animation dear."],\n["hack", "To display a fake hacking animation."],\n["bomb", "To display the Bomb animation."],\n["brain", "To display the Brain animation 🧠."],\n["kontol", "To display dick art."],\n["penis", "To display penis art with emoji."],\n["tembak", "To display shooting art."],\n["bundir", "To display bundir art."],\n["helikopter", "To display helicopter art."],\n["y", "To display art y sj."],\n["awk", "to display art awkowkowk."],\n["nah", "To display art love."],\n["ajg", "To Display art anjing."],\n["babi", "To display art babi."],\n["hug", "To get A Hug Gifs anime."],\n["hmm", "Get Random Hmmm."],\n["wink", "To Get A Winking Gifs."],\n["love", "To Propose Someone."],\n["loveyou", "It Will Send Random Emojis."],\n["pat", "To get a pat gifs",],\n["pikachu", "to get a Pikachu Gift, ],\n["kill", "To kill Someone randomly", ],\n["wtf", "Wtf animations",],\n[ "ding", "Get Dong",  ],\n["gangstar", "Animation Gangstar", ]\n["mif", "to display m!ddle f!nge®"] ")
+
 
 @Client.on_message(filters.command(["hmm", "hm"], ".") & filters.me)
 async def hmm(client: Client, message: Message):
@@ -338,7 +343,7 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [🗿UN IS BEST🗿](https://t.me/un_w0rld) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [🗿UN IS BEST🗿](@un_w0rld) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
     if message.forward_from:
         return
@@ -450,7 +455,7 @@ async def kocok(client: Client, message: Message):
     await e.edit("RIP 😭😭😭😭")
 
 
-@Client.on_message(filters.command(["fuck", "fucek"], ".") & filters.me)
+@Client.on_message(filters.command(["fuck", "mif"], ".") & filters.me)
 async def ngefuck(client: Client, message: Message):
     e = await edit_or_reply(message, ".                       /¯ )")
     await e.edit(".                       /¯ )\n                      /¯  /")
