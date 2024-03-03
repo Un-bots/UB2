@@ -2,7 +2,7 @@
     "name": "Un Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/un-bots/Userbot",
+    "repository": "https://github.com/un-bots/Ub2",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
