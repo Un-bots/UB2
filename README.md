@@ -101,10 +101,10 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- UN Userbot
+- Team Un
 - Man
 - pyrogram
-- xyz ⚡
+- Hyper xyz ⚡
 
 ## Support / Channel
 
