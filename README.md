@@ -1,17 +1,4 @@
-### ☁️𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒☁️
 
-<!--
-**un-bots/userbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/un-bots/count.svg" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">𝗨𝗡 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
@@ -21,7 +8,7 @@
 
 ## Repo Stats
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=un-bots&repo=USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=un-bots&repo=UB2&theme=dark)
 
 
 ## Requirements 
@@ -31,9 +18,6 @@
 - Python 3.8+ or 3.7
 - [Mongo Db](https://youtu.be/mnvjt_a5JYA)
 
-## String Session
-
-<p align="center"><a href="https://replit.com/@Itz-zaid/pyrogram"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒
