@@ -40,19 +40,13 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/un-bots/UB2)
 
-## Hosting With Mogenius 
-
-I will suggest to host on mogenius if uh don't know what is this then 
-Checkout Tutorial!
-<p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/Un-UserBot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
 
 ## VPS/Locally deploy!
 ```console
 UN@Debian~ $ apt-get -y update
 UN@Debian~ $ apt-get -y install git gcc python3-pip -y
-UN@Debian~ $ git clone https://github.com/un-bots/USERBOT
-UN@Debian~ $ cd ZAID-USERBOT
+UN@Debian~ $ git clone https://github.com/un-bots/UB2
+UN@Debian~ $ cd UB2
 UN@Debian~ $ pip3 install -U -r requirements.txt
 UN@Debian~ $ cp sample.env .env
 UN@Debian~ $ nano .env
@@ -84,15 +78,10 @@ and you ended up in a Finale Battle with Telegram and at the end
     I will be rolling on the floor laughing at you.
 ```
 
-## Credits 💖
-- Team Un
-- Man
-- pyrogram
-- Hyper xyz ⚡
 
 ## Support / Channel
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/un_bots"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/un_bots_info"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/unb_support"><img src="https://img.shields.io/badge/Support-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/unb_info"><img src="https://img.shields.io/badge/Updates-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
