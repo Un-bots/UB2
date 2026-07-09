@@ -18,6 +18,13 @@
 - Python 3.8+ or 3.7
 - [Mongo Db](https://youtu.be/mnvjt_a5JYA)
 
+## Features 
+
+- **Spamming!**
+- **You Can deploy Upto 10 Clients At a Same Time**
+- **Almost 90+ Plugins There adding more Plugins Soon**
+- **Id Safety Specially For Fake accounts**
+- 
 
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒
@@ -27,13 +34,6 @@
 [ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/un-bots/Ub2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-## Features 
-
-- **Spamming!**
-- **You Can deploy Upto 10 Clients At a Same Time**
-- **Almost 90+ Plugins There adding more Plugins Soon**
-- **Id Safety Specially For Fake accounts**
 
 
 ## Deploy To Render 
